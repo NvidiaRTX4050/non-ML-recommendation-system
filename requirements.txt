@@ -1,0 +1,4 @@
+pandas==2.1.0
+numpy==1.24.3
+requests==2.31.0
+python-Levenshtein==0.21.1  # For better string matching performance 
